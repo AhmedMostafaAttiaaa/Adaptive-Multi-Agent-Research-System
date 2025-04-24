@@ -72,7 +72,7 @@ Below is a breakdown of the main Python files and their responsibilities in the 
 
 Below is a visual overview of the Adaptive Multi-Agent Research System flow:
 
-![System Diagram](https://raw.githubusercontent.com/AhmedMostafaAttiaaa/Adaptive-Multi-Agent-Research-System/main/assets/flowchart.png)
+!![System Diagram](https://drive.google.com/uc?export=view&id=1AKOmy9IsFaflNPQzNxw43_fRuMD1LD8c)
 
 ---
 
